@@ -2,6 +2,9 @@
 <title>Nuevo</title>
 <body bgcolor="blue">
 <center>
+
+<td width="450" aling="center"><img src="bienvenidos.png" height="150">
+
 <table border="2">
 <tr>
 <td><h3>Prueba numero 2</h3></td>

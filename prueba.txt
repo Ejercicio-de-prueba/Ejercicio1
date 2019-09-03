@@ -1,5 +1,5 @@
 <html>
-<body>
+<body bgcolor="geen">
 <center>
 <p>Prueba del Curso</p>
 <h3>Comentario de segunda prueba</h3>
