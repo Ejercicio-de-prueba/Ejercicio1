@@ -1,9 +1,19 @@
 <html>
 <body bgcolor="geen">
 <center>
-<p>Prueba del Curso</p>
-<h3>Comentario de segunda prueba</h3>
-<h4>Ejemplo para la rama TEXT</h4>
+<h2>REDES SOCIALES</h2>
+
+<table>
+<tr>
+<td width="450" aling="center" onclick="location.href='http://facebook.com'"><img src="facebook.png" height="150"> 
+<td width="450" aling="center" onclick="location.href='http://instagram.com'"><img src="instagram.png" height="150">
+<td width="450" aling="center" onclick="location.href='http://twitter.com'"><img src="twitter.png" height="150">
+</td>
+</tr>
+</table>
+<h2>Imagenes de codigos</h2>
+<td width="450" aling="center"><img src="imagen1.jpg" height="150">
+<td width="450" aling="center"><img src="imagen2.jpg" height="150">
 </center>
 </body>
 </html>
