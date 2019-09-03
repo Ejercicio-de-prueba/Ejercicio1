@@ -1,5 +1,8 @@
 <html>
-<body bgcolor: blue>
-<p>Prueba del Curso</p>
+<title>Nuevo</title>
+<body bgcolor="blue">
+<center>
+<h3>Prueba numero 2</h3>
+</center>
 </body>
 </html>
