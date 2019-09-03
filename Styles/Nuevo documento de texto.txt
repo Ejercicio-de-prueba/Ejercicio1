@@ -2,7 +2,14 @@
 <title>Nuevo</title>
 <body bgcolor="blue">
 <center>
-<h3>Prueba numero 2</h3>
+<table border="2">
+<tr>
+<td><h3>Prueba numero 2</h3></td>
+</tr>
+<tr>
+<td><button>Regresar</button>
+<button>Insertar</button></td>
+</tr>
 </center>
 </body>
 </html>

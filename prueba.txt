@@ -1,6 +1,9 @@
 <html>
 <body>
+<center>
 <p>Prueba del Curso</p>
-<h3>Comentario</h3>
+<h3>Comentario de segunda prueba</h3>
+<h4>Ejemplo para la rama TEXT</h4>
+</center>
 </body>
 </html>
